@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">JoyCon Droid</string>
     <string name="bt_not_available">Bluetooth ist nicht verfügbar/aktiviert.</string>
-    <string name="bt_enable_canceled">Konnte nicht Verbinden mit der Nintendo Switch.</string>
-    <string name="bt_discovery_canceled">Ein Fehler ist bei der Suche nach der Nintendo Switch Konsole aufgetreten.</string>
-    <string name="could_not_pair"> Konnte nicht automatisch koppeln.</string>
-    <string name="pair_with_switch">Wollen sie mit der Nintendo Switch verbinden</string>
+    <string name="bt_enable_canceled">Konnte sich nicht mit der Nintendo Switch verbinden.</string>
+    <string name="bt_discovery_canceled">Ein Fehler ist bei der Suche nach der Nintendo Switch-Konsole aufgetreten.</string>
+    <string name="could_not_pair"> Konnte sich nicht automatisch koppeln.</string>
+    <string name="pair_with_switch">Wollen sie sich mit der Nintendo Switch verbinden</string>
     <string name="sl_label">SL</string>
     <string name="sr_label">SR</string>
     <string name="connected_to_switch">Mit der Nintendo Switch verbunden!</string>
